@@ -24,4 +24,10 @@ these 3 things will allow you to interact with the system in different ways to b
 2) Plugins : Plugins are at a moderate level but higher than the system being able to interface with the system component and being able to add , remove or change whatever is on the main os but cannot bring major changes to how the os works . ( EXAMPLES : Theme Plugin , Custom Sounds , Custom UI)
 3) Driver : Simple to understand . But necesarry for porting a WP7 to WP81 to be able to communicate with the system for the touch screen , graphics , audio , wifi all that stuff .
 
+AVAILABLE OPTIONS :
+1) VERBOSE BOOTING : this is useful for debugging as it will log and show on screen any problem
+2) DISABlE WIFI : to disable wifi to not use wifi i guess
+3) FILE EXPLORER : to explore the files of the system and export them (like screenshots and such)
+4) BACKUP OS : will backup your os BUT MAKE SURE you have enough storage
+
 k bay until its done or an update is made but PLEASE FORGIVE ME FOR VIBECODING THIS I BEG I BARELY KNOW ANY PYTHON SINCE IM STILL LEARNING
