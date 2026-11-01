@@ -14,7 +14,7 @@ wanna know how it works well here it is :
 4) we made a custom bootloader
 5) we made an app to launch the bootloader to launch windows phone 8.1
 
-THE PROJECT CURRENT STATE : im still making the bootloader cuz im implementing some custom code injection features to be able to make stuff like plugins and custom drivers and maybe even more control over a modded rom (but main function is to be able to easly update stuff like drivers and custom plugins)
+THE PROJECT CURRENT STATE : Booting works but were getting errors with compatibility of hardware detection so fixing that
 
 also the bootloader idea is from hackintoshing lol like kexts but even harder to implement
 
