@@ -11,7 +11,7 @@ Currently done :
 - Mapping Bootloader - DONE
 - Extracting FFU Files - DONE
 - Porting - Doing
-- Booting - NOT DONE
+- Booting - Doing
 - Driver Porting - NOT DONE
 
 Be warned that when this first release it will be very unstable and may brick your device . Proceed with caution
