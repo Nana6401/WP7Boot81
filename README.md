@@ -7,9 +7,11 @@ This project aims at Porting the Windows Phone 7.X Bootloader to Windows phone 8
 
 Currently done :
 
-- Locating the bootloader - SEMI
-- Mapping Bootloader - SEMI
+- Locating the bootloader - DONE
+- Mapping Bootloader - DONE
 - Extracting FFU Files - DONE
+- Porting - Doing
 - Booting - NOT DONE
+- Driver Porting - NOT DONE
 
 Be warned that when this first release it will be very unstable and may brick your device . Proceed with caution
