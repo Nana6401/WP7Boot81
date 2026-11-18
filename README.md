@@ -14,4 +14,6 @@ Currently done :
 - Booting - Doing
 - Driver Porting - NOT DONE
 
+Currently reaching : 70.89 million instruction before booting
+
 Be warned that when this first release it will be very unstable and may brick your device . Proceed with caution
