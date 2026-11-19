@@ -1,5 +1,5 @@
 # WP7Boot81
-sorry but its vibecoded due to complexity :( sorry :(
+Windows phone 8.1 on Windows phone 7.X
 
 PROJECT IS COMPLETLY RENOVATED WITH A NEW APPROACH
 
@@ -14,6 +14,6 @@ Currently done :
 - Booting - Doing
 - Driver Porting - NOT DONE
 
-Currently reaching : 144,296,421 estimated instruction before booting
+Currently reaching : 846.87 million estimated kernel instructions
 
 Be warned that when this first release it will be very unstable and may brick your device . Proceed with caution
