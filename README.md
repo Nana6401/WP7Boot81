@@ -1,5 +1,5 @@
 # WP7Boot81
-Windows phone 8.1 on Windows phone 7.X
+Windows phone 8.1 on Windows phone 7.X (unfortunatly vibecoded)
 
 PROJECT IS COMPLETLY RENOVATED WITH A NEW APPROACH
 
